@@ -1,7 +1,7 @@
 # Attendance-Tracker
 **🕒 Employee Attendance Salary Dashboard** 
 
-– Welcome to the Attendance-Tracker Project repository! 🚀 This project presents a visually rich Power BI dashboard designed to analyze and present employee attendance and salary data. This project offers a comprehensive view of individual performance, monthly attendance trends, and payroll breakdowns — ideal for HR analytics and operational insights.
+ Welcome to the Attendance-Tracker Project repository! 🚀 This project presents a visually rich Power BI dashboard designed to analyze and present employee attendance and salary data. This project offers a comprehensive view of individual performance, monthly attendance trends, and payroll breakdowns — ideal for HR analytics and operational insights.
 
 **📊 Dashboard Highlights**
  - Employee Profile: Name, ID, performance score, and rating indicator
