@@ -60,11 +60,14 @@
 
 
 **🛡️ License**
+
 This project is licensed under the MIT License. Feel free to use, modify, or share it with proper attribution.
 
 **🌟 About Me**
+
 Hi! I'm **Akriti Soni**, an IT professional passionate about turning data into meaningful stories.
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
 **Linkedln**: www.linkedin.com/in/akriti-soni-377660380
 
 
