@@ -13,30 +13,34 @@
 **✅ Key Metrics Displayed**:
 
 **📌 Employee Overview**
+
 - Employee Name: Aarav Sharma
 - Employee ID: 10
 - Performance Score: 0.98 (shown via gauge chart)
 - Rating Indicator: ⭐ (likely denotes high performance or recognition)
 
 **📊 Attendance Metrics**
+
 - Sum of Present Days: 78
 - Sum of Absent Days: 7
 - Sum of Weekoff Days: 28
 - Median of Present Days: 4
 
 **💰 Salary Metrics**
+
 - Sum of Total Salary: ₹117.71K
 - Sum of Salary: 100%
 - Sum of Deduction: 1.5%
 - Sum of Final Salary: 98.5%
 
 **📅 Monthly Trends**
-**- Bar chart displaying**:
+- Bar chart displaying:
       - Monthly Present Days
       - Monthly Absent Days
       - Monthly Weekoff Days
 
 **🧠 Project Objectives**
+
 - Data Modeling: Structured dimension and fact tables for flexible analysis
 - Data Cleaning: Resolved missing values and standardized fields
 - Analytics & Reporting: Delivered actionable insights through intuitive visuals
