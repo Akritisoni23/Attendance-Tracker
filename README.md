@@ -13,34 +13,33 @@
 **✅ Key Metrics Displayed**:
 
 **📌 Employee Overview**
-**- Employee Name**: Aarav Sharma
-**- Employee ID**: 10
-**- Performance Score**: 0.98 (shown via gauge chart)
-**- Rating Indicator**: ⭐ (likely denotes high performance or recognition)
+- Employee Name: Aarav Sharma
+- Employee ID: 10
+- Performance Score: 0.98 (shown via gauge chart)
+- Rating Indicator: ⭐ (likely denotes high performance or recognition)
 
 **📊 Attendance Metrics**
-**- Sum of Present Days**: 78
-**- Sum of Absent Days**: 7
-**- Sum of Weekoff Days**: 28
-**- Median of Present Days**: 4
+- Sum of Present Days: 78
+- Sum of Absent Days: 7
+- Sum of Weekoff Days: 28
+- Median of Present Days: 4
 
 **💰 Salary Metrics**
-**- Sum of Total Salary**: ₹117.71K
-**- Salary Breakdown**:
-**- Sum of Salary**: 100%
-**- Sum of Deduction**: 1.5%
-**- Sum of Final Salary**: 98.5%
+- Sum of Total Salary: ₹117.71K
+- Sum of Salary: 100%
+- Sum of Deduction: 1.5%
+- Sum of Final Salary: 98.5%
 
 **📅 Monthly Trends**
 **- Bar chart displaying**:
-      **- Monthly Present Days**
-      **- Monthly Absent Days**
-      **- Monthly Weekoff Days**
+      - Monthly Present Days
+      - Monthly Absent Days
+      - Monthly Weekoff Days
 
 **🧠 Project Objectives**
-**- Data Modeling**: Structured dimension and fact tables for flexible analysis
-**- Data Cleaning**: Resolved missing values and standardized fields
-**- Analytics & Reporting**: Delivered actionable insights through intuitive visuals
+- Data Modeling: Structured dimension and fact tables for flexible analysis
+- Data Cleaning: Resolved missing values and standardized fields
+- Analytics & Reporting: Delivered actionable insights through intuitive visuals
 
 **💡 Skills Demonstrated**
 - Power BI Dashboard Design
@@ -50,10 +49,10 @@
 - Dashboard Storytelling
 
 **🛠️ Tools Used**
-**- Power BI Desktop** – For dashboard creation
-**- Advanced Excel**– For data preprocessing, formula-based calculations, and pivot analysis
-**- CSV Files** – As data source
-**- GitHub** – Version control and collaboration
+- Power BI Desktop – For dashboard creation
+- Advanced Excel– For data preprocessing, formula-based calculations, and pivot analysis
+- CSV Files – As data source
+- GitHub – Version control and collaboration
 
 
 **🛡️ License**
