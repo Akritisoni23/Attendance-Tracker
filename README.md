@@ -36,6 +36,7 @@
 **📅 Monthly Trends**
 
 - Bar chart displaying:
+  
       - Monthly Present Days
       - Monthly Absent Days
       - Monthly Weekoff Days
