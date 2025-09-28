@@ -34,6 +34,7 @@
 - Sum of Final Salary: 98.5%
 
 **📅 Monthly Trends**
+
 - Bar chart displaying:
       - Monthly Present Days
       - Monthly Absent Days
